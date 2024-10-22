@@ -79,6 +79,7 @@ This project uses diagnostic measurements to classify breast cancer as either **
 |-------------------------------|----------------------------------------------|  
 | `breast cancer data analysis.ipynb`   | Jupyter notebook containing the code        |  
 | `random_forest_model.pkl`     | Saved Random Forest model                   |  
+|  `Breast cancer classification model.py`    | Python Script                            |
 |[Jupyter Notebook](https://colab.research.google.com/drive/1-FC5iz_yemSDGbfeAemV-cO-5B4r314N?usp=sharing)|	Viewable notebook on Google Colab|
 | `Breast_cancer_classification.knmf`            | Workflow file for reproducibility            |  
 
